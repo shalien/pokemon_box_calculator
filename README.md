@@ -1,0 +1,1 @@
+A simple application that calculate the pokemon position inside the box system based on the national dex id
